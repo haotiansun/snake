@@ -1,0 +1,17 @@
+﻿Build started 2017/4/27 15:36:04.
+     1>Project "c:\Users\Lenovo\documents\visual studio 2013\Projects\snake\snake\snake.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\lenovo\documents\visual studio 2013\Projects\snake\Debug\snake.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\lenovo\documents\visual studio 2013\Projects\snake\Debug\snake.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\lenovo\documents\visual studio 2013\Projects\snake\Debug\snake.lib" /MACHINE:X86 Debug\map.obj
+         Debug\print.obj
+         Debug\score.obj
+         Debug\snake.obj
+         Debug\Source.obj
+         snake.vcxproj -> c:\users\lenovo\documents\visual studio 2013\Projects\snake\Debug\snake.exe
+     1>Done Building Project "c:\Users\Lenovo\documents\visual studio 2013\Projects\snake\snake\snake.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.11
